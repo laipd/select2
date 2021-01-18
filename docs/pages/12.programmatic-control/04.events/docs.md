@@ -146,3 +146,4 @@ See [https://stackoverflow.com/a/26706695/2970321](https://stackoverflow.com/a/2
 Select2 has an [internal event system](/advanced/default-adapters/selection#eventrelay) that works independently of the DOM event system, allowing adapters to communicate with each other. This internal event system is only accessible from plugins and adapters that are connected to Select2 - **not** through the jQuery event system.
 
 You can find more information on the public events triggered by individual adapters in the [advanced chapter](/advanced).
+laipd edit
